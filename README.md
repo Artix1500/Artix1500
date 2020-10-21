@@ -2,7 +2,9 @@
 
 <p align="center">
 #### Frameworks I have used
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js">
 <img src="https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React">
