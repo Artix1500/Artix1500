@@ -1,4 +1,4 @@
-# <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="25px"></h1>
+# <h1 align="center">Hello there</h1>
 
 <p align="center">
 Frameworks I worked with
