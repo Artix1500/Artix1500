@@ -3,15 +3,15 @@
 <p align="center">
 #### Frameworks I have used
 
-![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular)
-![RXJS](https://img.shields.io/badge/-RXJS-000000?style=flat&logo=RXJS)
-![NGRX](https://img.shields.io/badge/-NGRX-000000?style=flat&logo=NGRX)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![Mongo](https://img.shields.io/badge/-mongo-000000?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+<img src="https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js">
+<img src="https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React">
+<img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular">
+<img src="https://img.shields.io/badge/-RXJS-000000?style=flat&logo=RXJS">
+<img src="https://img.shields.io/badge/-NGRX-000000?style=flat&logo=NGRX">
+<img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux">
+<img src="https://img.shields.io/badge/-mongo-000000?style=flat&logo=mongodb">
+<img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL">
 </p>
 
 <p align="center">
