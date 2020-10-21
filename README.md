@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=artix1500)](https://github.com/artix1500/github-readme-stats)
 
 <!--
 **Artix1500/Artix1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
