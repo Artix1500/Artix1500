@@ -12,9 +12,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Nest](https://img.shields.io/badge/-Nest-000000?style=flat&logo=Nest.js)
 
-<p align="center">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=artix1500&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-</p>
+
 
 
 
