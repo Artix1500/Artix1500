@@ -1,8 +1,8 @@
 # <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="25px"></h1>
 
-<h2 align="center">
-Frameworks I have used
-</h2>
+<p align="center">
+Frameworks I worked with
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js">
