@@ -1,5 +1,6 @@
 # <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="25px"></h1>
 
+<p align="center">
 #### Frameworks I have used
 
 ![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
@@ -11,6 +12,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Mongo](https://img.shields.io/badge/-mongo-000000?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=artix1500&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </p>
